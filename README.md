@@ -1,6 +1,8 @@
 # Raylib Projects
 example raylib projects
 
+- Zoomable Serpinski's Triangle `serpinski.c` [Done]
+- Collatz Tree `collatz.c` [Done]
 - Mandelbrot [Done]
 - Snake
 - Starfield [Done]
